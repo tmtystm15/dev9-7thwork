@@ -31,7 +31,7 @@ if($flag==false){
 <html lang="ja">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>Docum</title>
 	<link rel="stylesheet" href="css/sanitize.css">
 	<link rel="stylesheet" href="css/style.css">
 </head>
